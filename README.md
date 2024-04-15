@@ -1,5 +1,5 @@
 # ECE484-MuscleSensor
-This goal of this project was to interface with a muscle sensor chip using avr. All code relevant to this project can be found in the musclesensor folder. To compile simply change the avr path and com in the compile script and run the compile script while in the musclesensor folder. Please refer to the included datasheet for information on setting up the muscle sensor. A video demo can also be found on this page.  
+This goal of this project was to interface with a muscle sensor chip using avr. All code relevant to this project can be found in the musclesensor folder. To compile simply change the avr path and com in the compile script and run the compile script while in the musclesensor folder. Please refer to the included datasheet for information on setting up the muscle sensor. A video demo and important images can be found in the media folder.  
 Pins:  
   LCD:  
     D4 --- 5  
