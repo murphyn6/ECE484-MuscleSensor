@@ -13,10 +13,12 @@ Pins:
     VCC --- 5V  
     LED+ --- 5V  
     LED- --- GND   
+      
   Sensor:  
     +Vs --- +Batteries  
     GND --- Batteries GND  
     -Vs --- -Batteries  
     SIG --- A0  
     GND --- GND  
+
   LED --- 7  
